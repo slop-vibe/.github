@@ -1,1 +1,1 @@
-Let's get something down with the most weak LLM.
+Let's get something down with the weakest LLM.
